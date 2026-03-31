@@ -1,0 +1,1 @@
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter notebook tensorflow keras torch torchvision xgboost lightgbm requests
